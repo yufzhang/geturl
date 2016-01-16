@@ -1,3 +1,9 @@
 Syntax:
 	geturl.py utl_link [output_filename]
 
+Example:
+	geturl.py http://google.fr
+	geturl.py http://google.fr.txt
+
+
+
