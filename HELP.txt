@@ -1,0 +1,3 @@
+Syntax:
+	geturl.py utl_link [output_filename]
+
