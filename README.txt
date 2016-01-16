@@ -1,2 +1,1 @@
-# geturl
-Ge a web page
+This a sample project to follow git/github training.
